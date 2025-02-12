@@ -21,7 +21,7 @@
 
 - **Xcode:** 16.2
 - **Swift:** Soporte para Swift 6
-- **MockServer:** Se utilza la herramienta mockeable, asi mismo se adjunta en el proyecto el archivo **recipies.json**
+- **MockServer:** Se utilza la herramienta mockeable, asi mismo se adjunta en el proyecto el archivo **recipies.json**, *Se consdiero un solo endpoint por tiempo
 
 ## ⚙️ Consideraciones Técnicas
 
