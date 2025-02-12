@@ -29,7 +29,10 @@
 
 - **Pruebas Unitarias:**
   - Se han considerado tests para las capas de **Infraestructura**, **Dominio** y la pantalla `RecipesList`.
+  - Se utilizo el patrong Given When Then
+  - Se considero el uso del patron ObjetMother
   - Quedan pendientes las pruebas para otras pantallas y módulos core.
+
 
 - **Módulos Core Abstractos:**
   - **`HttpClient`**: Abstrae la capa de red.
