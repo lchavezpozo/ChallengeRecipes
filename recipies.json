@@ -1,0 +1,243 @@
+{
+  "recipes": [
+    {
+      "imageName": "ceviche",
+      "name": "Ceviche",
+      "description": "Plato bandera del Perú, pescado marinado en limón con ají y cebolla.",
+      "ingredients": [
+        "500g de pescado fresco (corvina o lenguado)",
+        "10 limones",
+        "1 cebolla roja",
+        "1 ají limo",
+        "Cilantro picado",
+        "Sal y pimienta",
+        "Camote sancochado",
+        "Choclo cocido"
+      ],
+      "preparation": [
+        "Cortar el pescado en cubos pequeños.",
+        "Mezclar con jugo de limón, sal y dejar reposar 10 minutos.",
+        "Agregar cebolla en juliana, ají limo sin venas y cilantro.",
+        "Servir con camote, choclo y lechuga."
+      ],
+      "origin": {
+        "latitude": -8.17139,
+        "longitude": -79.0092
+      }
+    },
+    {
+      "imageName": "lomoSaltado",
+      "name": "Lomo Saltado",
+      "description": "Fusión peruano-china con carne, verduras y papas fritas.",
+      "ingredients": [
+        "500g de lomo de res",
+        "1 cebolla morada",
+        "2 tomates",
+        "1 ají amarillo",
+        "Salsa de soya",
+        "Vinagre tinto",
+        "Papas fritas",
+        "Arroz blanco"
+      ],
+      "preparation": [
+        "Saltear la carne en aceite caliente.",
+        "Añadir cebolla, tomate y ají amarillo en tiras.",
+        "Incorporar salsa de soya y vinagre.",
+        "Servir con papas fritas y arroz."
+      ],
+      "origin": {
+        "latitude": -12.050957,
+        "longitude": -77.025769
+      }
+    },
+    {
+      "imageName": "ajiDeGallina",
+      "name": "Ají de Gallina",
+      "description": "Guiso cremoso de pollo desmenuzado con ají amarillo.",
+      "ingredients": [
+        "500g de pechuga de pollo",
+        "4 panes blancos remojados en leche",
+        "100g de nueces molidas",
+        "2 ajíes amarillos sin venas",
+        "1 cebolla picada",
+        "Queso fresco",
+        "Arroz blanco"
+      ],
+      "preparation": [
+        "Cocinar el pollo y desmenuzarlo.",
+        "Licuar pan, leche, ají y nueces.",
+        "Sofreír cebolla, agregar la mezcla y el pollo.",
+        "Servir con arroz y papas sancochadas."
+      ],
+      "origin": {
+        "latitude": -12.0464,
+        "longitude": -77.0428
+      }
+    },
+    {
+      "imageName": "anticuchos",
+      "name": "Anticuchos",
+      "description": "Brochetas de corazón de res marinadas en ají panca.",
+      "ingredients": [
+        "1kg de corazón de res",
+        "3 cucharadas de ají panca molido",
+        "2 dientes de ajo",
+        "Vinagre",
+        "Comino",
+        "Palillos de caña"
+      ],
+      "preparation": [
+        "Cortar el corazón en cubos.",
+        "Mezclar con ají, ajo, vinagre y comino.",
+        "Ensartar en palillos y asar a la parrilla.",
+        "Acompañar con papa y maíz."
+      ],
+      "origin": {
+        "latitude": -12.078333334,
+        "longitude": -77.04805556
+      }
+    },
+    {
+      "imageName": "rocotoRelleno",
+      "name": "Rocoto Relleno",
+      "description": "Rocoto relleno de carne molida y queso, típico de Arequipa.",
+      "ingredients": [
+        "6 rocotos",
+        "300g de carne molida",
+        "1 cebolla picada",
+        "1 huevo duro",
+        "Queso fresco",
+        "Leche evaporada"
+      ],
+      "preparation": [
+        "Quitar venas y semillas al rocoto.",
+        "Sofreír cebolla y carne, mezclar con queso.",
+        "Rellenar los rocotos y gratinar con queso.",
+        "Hornear a 180°C por 20 minutos."
+      ],
+      "origin": {
+        "latitude": -16.4090,
+        "longitude": -71.5375
+      }
+    },
+    {
+      "imageName": "causaLimena",
+      "name": "Causa Limeña",
+      "description": "Pastel de papa amarilla con relleno de pollo o atún.",
+      "ingredients": [
+        "1kg de papa amarilla",
+        "2 ajíes amarillos",
+        "Limón",
+        "200g de pollo desmenuzado",
+        "Mayonesa",
+        "Palta"
+      ],
+      "preparation": [
+        "Cocinar y aplastar las papas.",
+        "Mezclar con ají, limón y sal.",
+        "Armar capas con pollo, palta y mayonesa.",
+        "Refrigerar y servir con huevo duro."
+      ],
+      "origin": {
+        "latitude": -12.04385135,
+        "longitude": -77.0300570188879
+      }
+    },
+    {
+      "imageName": "secoDeCarne",
+      "name": "Seco de Carne",
+      "description": "Estofado de carne de res en salsa de cilantro, acompañado de arroz y yuca frita.",
+      "ingredients": [
+        "1 kg de carne de res (morcillo o osobuco)",
+        "1 manojo de cilantro fresco",
+        "2 cebollas rojas, picadas",
+        "4 dientes de ajo, picados",
+        "1 ají amarillo sin semillas",
+        "1 taza de chicha de jora (o cerveza negra como alternativa)",
+        "1/2 taza de caldo de carne",
+        "2 tomates pelados y picados",
+        "Sal y pimienta al gusto"
+      ],
+      "preparation": [
+        "Marinar la carne con sal, pimienta y jugo de limón durante 30 minutos.",
+        "En una olla grande, sofreír la cebolla, el ajo, el ají y el tomate hasta que estén tiernos.",
+        "Agregar la carne y dorarla por todos lados.",
+        "Licuar el cilantro junto con la chicha y el caldo, y luego incorporar la mezcla a la olla.",
+        "Cocinar a fuego lento durante 1 a 1.5 horas, hasta que la carne esté tierna y la salsa espese.",
+        "Servir caliente, acompañado de arroz blanco y yuca frita."
+      ],
+      "origin": {
+        "latitude": -6.70111,
+        "longitude": -79.90611
+      }
+    },
+    {
+      "imageName": "papaALaHuancaina",
+      "name": "Papa a la Huancaína",
+      "description": "Papas con salsa de ají amarillo y queso.",
+      "ingredients": [
+        "8 papas amarillas",
+        "4 huevos duros",
+        "200g de queso fresco",
+        "2 ajíes amarillos",
+        "Galletas de soda",
+        "Leche evaporada"
+      ],
+      "preparation": [
+        "Cocinar papas y cortarlas en rodajas.",
+        "Licuar ají, queso, galletas y leche para la salsa.",
+        "Bañar las papas con la salsa.",
+        "Decorar con huevo y aceitunas."
+      ],
+      "origin": {
+        "latitude": -12.067,
+        "longitude": -75.217
+      }
+    },
+    {
+      "imageName": "tacuTacu",
+      "name": "Tacu Tacu",
+      "description": "Revuelto de arroz y frijoles con lomo fino.",
+      "ingredients": [
+        "2 tazas de frijoles canarios",
+        "2 tazas de arroz",
+        "1 cebolla picada",
+        "Ajo molido",
+        "Lomo de res",
+        "Salsa criolla"
+      ],
+      "preparation": [
+        "Mezclar arroz y frijoles cocidos.",
+        "Formar tortillas y freír en aceite.",
+        "Saltear lomo y servir sobre el tacu tacu.",
+        "Acompañar con salsa criolla."
+      ],
+      "origin": {
+        "latitude": -13.417488,
+        "longitude": -76.1325726
+      }
+    },
+    {
+      "imageName": "picarones",
+      "name": "Picarones",
+      "description": "Rosquillas de camote y zapallo con miel de chancaca.",
+      "ingredients": [
+        "200g de camote",
+        "200g de zapallo",
+        "2 tazas de harina",
+        "1 cucharada de anís",
+        "Miel de chancaca"
+      ],
+      "preparation": [
+        "Cocinar y aplastar camote y zapallo.",
+        "Mezclar con harina y anís hasta formar masa.",
+        "Formar rosquillas y freír en aceite.",
+        "Bañar con miel caliente."
+      ],
+      "origin": {
+        "latitude": -12.1219,
+        "longitude": -77.0297
+      }
+    }
+  ]
+}
